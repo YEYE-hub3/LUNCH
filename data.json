@@ -1,0 +1,347 @@
+{
+ "places": [
+  {
+   "id": "mwx1l9opatez",
+   "kind": "lunch",
+   "name": "백소정",
+   "memo": "돈까스, 마제소바 등",
+   "closed": [],
+   "ts": 1700000000001
+  },
+  {
+   "id": "mwx1mkipdagl",
+   "kind": "lunch",
+   "name": "콩밭뜰",
+   "memo": "두부 한 상",
+   "closed": [],
+   "ts": 1700000000002
+  },
+  {
+   "id": "mwx1nncqrqbg",
+   "kind": "lunch",
+   "name": "뜨돈",
+   "memo": "돈까스",
+   "closed": [],
+   "ts": 1700000000003
+  },
+  {
+   "id": "mwx1ny8pufl8",
+   "kind": "lunch",
+   "name": "초계담",
+   "memo": "닭요리",
+   "closed": [],
+   "ts": 1700000000004
+  },
+  {
+   "id": "mwx1ofmhos5j",
+   "kind": "lunch",
+   "name": "반마이",
+   "memo": "태국음식",
+   "closed": [
+    1
+   ],
+   "ts": 1700000000005
+  },
+  {
+   "id": "mwx1opw9fa0b",
+   "kind": "lunch",
+   "name": "라이하호첸",
+   "memo": "중식당",
+   "closed": [],
+   "ts": 1700000000006
+  },
+  {
+   "id": "mwx1p9uxtyro",
+   "kind": "lunch",
+   "name": "삼동소바",
+   "memo": "",
+   "closed": [
+    1
+   ],
+   "ts": 1700000000007
+  },
+  {
+   "id": "mwx1pju1xjtn",
+   "kind": "lunch",
+   "name": "등촌샤브칼국수",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000008
+  },
+  {
+   "id": "mwx1qcy9x3yf",
+   "kind": "lunch",
+   "name": "돈까스클럽",
+   "memo": "",
+   "closed": [
+    2
+   ],
+   "ts": 1700000000009
+  },
+  {
+   "id": "mwx1tr294bmx",
+   "kind": "lunch",
+   "name": "푸켓테이블",
+   "memo": "태국 음식",
+   "closed": [
+    1
+   ],
+   "ts": 1700000000010
+  },
+  {
+   "id": "mwx1uiohr9h2",
+   "kind": "lunch",
+   "name": "명가원설농탕",
+   "memo": "설렁탕, 곰탕",
+   "closed": [],
+   "ts": 1700000000011
+  },
+  {
+   "id": "mwx1uvihazmi",
+   "kind": "lunch",
+   "name": "산남정 떡갈비",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000012
+  },
+  {
+   "id": "mwx1vtf5rfk5",
+   "kind": "lunch",
+   "name": "심학산닭갈비",
+   "memo": "부대찌개, 라면",
+   "closed": [
+    1,
+    2
+   ],
+   "ts": 1700000000013
+  },
+  {
+   "id": "mwx1w7gpxlv5",
+   "kind": "lunch",
+   "name": "우아한비빔밥",
+   "memo": "",
+   "closed": [
+    6
+   ],
+   "ts": 1700000000014
+  },
+  {
+   "id": "mwx1xddtfe6v",
+   "kind": "lunch",
+   "name": "강릉장칼",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000015
+  },
+  {
+   "id": "mwx1xo89fzp7",
+   "kind": "lunch",
+   "name": "심학산수제돼지갈비",
+   "memo": "제육",
+   "closed": [],
+   "ts": 1700000000016
+  },
+  {
+   "id": "mwx1yvc9dyej",
+   "kind": "lunch",
+   "name": "광릉불고기",
+   "memo": "된장찌개",
+   "closed": [
+    1
+   ],
+   "ts": 1700000000017
+  },
+  {
+   "id": "mwx1zk35kd90",
+   "kind": "lunch",
+   "name": "사과떡볶이",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000018
+  },
+  {
+   "id": "mwx1zvflmex5",
+   "kind": "lunch",
+   "name": "소코아",
+   "memo": "카레",
+   "closed": [],
+   "ts": 1700000000019
+  },
+  {
+   "id": "mwx21m6pn55d",
+   "kind": "lunch",
+   "name": "문발애 직화불백",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000020
+  },
+  {
+   "id": "mwx22dqha8r1",
+   "kind": "lunch",
+   "name": "나능이버섯백숙",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000021
+  },
+  {
+   "id": "mwx22o09ixsv",
+   "kind": "lunch",
+   "name": "비밥돈까스",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000022
+  },
+  {
+   "id": "mwx23bqhrssh",
+   "kind": "lunch",
+   "name": "도깨비탕수육",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000023
+  },
+  {
+   "id": "mwx23s4h3ar8",
+   "kind": "lunch",
+   "name": "한결같은비빔밥",
+   "memo": "",
+   "closed": [
+    0
+   ],
+   "ts": 1700000000024
+  },
+  {
+   "id": "mwx24m6pb87w",
+   "kind": "lunch",
+   "name": "구복만두",
+   "memo": "",
+   "closed": [
+    1
+   ],
+   "ts": 1700000000025
+  },
+  {
+   "id": "mwx269zsii71",
+   "kind": "lunch",
+   "name": "모락모락돼지고등어",
+   "memo": "생선구이",
+   "closed": [
+    3
+   ],
+   "ts": 1700000000026
+  },
+  {
+   "id": "mwx26jc0rket",
+   "kind": "lunch",
+   "name": "화목칼국수",
+   "memo": "칼국수, 돈까스",
+   "closed": [
+    3
+   ],
+   "ts": 1700000000027
+  },
+  {
+   "id": "mwx26scgiwj7",
+   "kind": "lunch",
+   "name": "강남면옥",
+   "memo": "갈비탕",
+   "closed": [],
+   "ts": 1700000000028
+  },
+  {
+   "id": "mwx27xrcg4ly",
+   "kind": "cafe",
+   "name": "피스피스",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000029
+  },
+  {
+   "id": "mwx28788qbya",
+   "kind": "cafe",
+   "name": "아르디움",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000030
+  },
+  {
+   "id": "mwx28dz4okmz",
+   "kind": "cafe",
+   "name": "식물정거장",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000031
+  },
+  {
+   "id": "mwx28mkpt1lc",
+   "kind": "cafe",
+   "name": "투바비앙",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000032
+  },
+  {
+   "id": "mwx2992pjxny",
+   "kind": "cafe",
+   "name": "락가든",
+   "memo": "루피",
+   "closed": [],
+   "ts": 1700000000033
+  },
+  {
+   "id": "mwx2aeggqs1e",
+   "kind": "cafe",
+   "name": "라라비지솔트",
+   "memo": "소금빵",
+   "closed": [
+    0,
+    1
+   ],
+   "ts": 1700000000034
+  },
+  {
+   "id": "mwx2ama861w8",
+   "kind": "cafe",
+   "name": "루버월",
+   "memo": "",
+   "closed": [],
+   "ts": 1700000000035
+  },
+  {
+   "id": "mwx2b36907s2",
+   "kind": "cafe",
+   "name": "과일의숲",
+   "memo": "심학산쪽 단독건물 2층",
+   "closed": [],
+   "ts": 1700000000036
+  },
+  {
+   "id": "mwx2bqognwu1",
+   "kind": "cafe",
+   "name": "엘레노",
+   "memo": "소코아 근처",
+   "closed": [],
+   "ts": 1700000000037
+  },
+  {
+   "id": "mwx2cbc047xv",
+   "kind": "cafe",
+   "name": "카페 움",
+   "memo": "(구)혜지원",
+   "closed": [
+    1
+   ],
+   "ts": 1700000000038
+  },
+  {
+   "id": "mwx2fby1x3ez",
+   "kind": "cafe",
+   "name": "어반그로브",
+   "memo": "호두과자",
+   "closed": [
+    6,
+    0
+   ],
+   "ts": 1700000000039
+  }
+ ]
+}
